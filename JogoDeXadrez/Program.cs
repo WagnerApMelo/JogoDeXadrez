@@ -1,6 +1,6 @@
 ﻿
 
-using Tabuleiro;
+using tabuleiro;
 
 Posicao P;
 
